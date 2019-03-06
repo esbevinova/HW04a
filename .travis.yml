@@ -8,4 +8,4 @@ install:
   - pip install requests
 # command to run tests
 script:
-  - python -m unittest Homework04a.py
+  - python -m unittest mocking.py
